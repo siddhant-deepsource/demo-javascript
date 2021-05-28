@@ -4,7 +4,7 @@ import Home from "./components/home";
 
 function App() {
   return (
-    <div className=   "App">
+    <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Home title={`Welcome to DeepSource Enterprise`} isHero={true}></Home>
