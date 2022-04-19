@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://deepsource.io/docs/">Documentation</a> |
   <a href="https://deepsource.io/signup/">Get Started</a> |
+  
   <a href="https://discuss.deepsource.io/">Discuss</a>
 </p>
 
